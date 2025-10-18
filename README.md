@@ -31,12 +31,12 @@ This project showcases expertise in operational security and proactive system ma
 ## Visual Documentation Checklist
 
     CloudWatch Alarm :
-![Architecture Diagram](Mon-Dash-SC/CW-Alarms.png)
+![CloudWatch Alarm](Mon-Dash-SC/CW-Alarms.png)
 
     SNS Topic/Subscription Proof:
-![Architecture Diagram](Mon-Dash-SC/CW-Subs.png)
-![Architecture Diagram](Mon-Dash-SC/CW-Subs2.png)
+![SNS Subscription](Mon-Dash-SC/CW-Subs.png)
+![SNS Subscription](Mon-Dash-SC/CW-Subs2.png)
 
 
     Working Proof :
-![Architecture Diagram](Mon-Dash-SC/CW-Proof.png)
+![Email Notification(ALARM)](Mon-Dash-SC/CW-Proof.png)
