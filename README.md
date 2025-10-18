@@ -34,7 +34,7 @@ This project showcases expertise in operational security and proactive system ma
 ![CloudWatch Alarm](Mon-Dash-SC/CW-Alarms.png)
 
     SNS Topic/Subscription Mail:
-![SNS Subscription](Mon-Dash-SC/CW-subs.png)
+![SNS Subscription](Mon-Dash-SC/SNS-subs.png)
 ![SNS Subcription](Mon-Dash-SC/CW-Subs2.png)
 
 
